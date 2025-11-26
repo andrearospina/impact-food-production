@@ -68,9 +68,13 @@ Según los resultados obtenidos, los alimentos que producen la mayor cantidad de
  
 **Conclusiones**
 
-Los rebaños de carne y aves y la producción de aceite de palma de cera y girasol son los alimentos con mayor impacto (negativo) para el medioambiente.
+El análisis permite establecer que los rebaños destinados a producción de carne y aves, así como los cultivos orientados a la producción de aceite de palma y de girasol, representan los mayores impactos negativos dentro de la industria alimentaria. Estas actividades requieren altos niveles de recursos naturales y generan cantidades significativas de emisiones contaminantes.
 
-De modo tal, que se recomienda a las personas (con espíritu ecológico) reemplazar dichos alimentos por unos más amigables con nuestro planeta; y a los grandes productores de alimentos, ejecutar sus actividades de un modo más responsable y sostenible. 
+En este sentido, se recomienda que:
+
+- Las personas interesadas en reducir su impacto ambiental consideren alternativas alimentarias más sostenibles.
+
+- Los grandes productores y empresas del sector avancen hacia modelos de producción más responsables, eficientes y respetuosos con el entorno, incorporando prácticas sostenibles que mitiguen su huella ecológica.
 
 
 ---
