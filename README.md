@@ -1,5 +1,6 @@
 ## Análisis de datos: Impacto ambiental de la producción de alimentos 🌴🐄
 **Por:** Andrea Rodriguez Ospina - Ingeniería de sistemas
+---
 **Contexto**
 
 Las palabras “*preservación del medioambiente, cambio climático y emisiones de efecto invernadero*” se hacen cada día más populares. Y no es de extrañar, ya que según científicos, nuestro hogar (la tierra), se está dirigiendo a un punto de no retorno debido al sobre consumo y la sobre explotación de los recursos naturales por parte de algunas industrias, entre las cuales, me voy a enfocar en una en particular: La de los alimentos.
@@ -19,14 +20,20 @@ Usando un dataset de ourworldindata.org voy a proceder a hacer un análisis con 
 
 ---
  
-**Resumen** 
+**Resumen de resultados** 
 
 Según los resultados obtenidos, los alimentos que producen la mayor cantidad de emisiones de efecto invernadero son:
 
--   🍖 Por origen animal: Carne de ave de corral, carne de res y los hatos lecheros. 
--   🌴 Por origen vegetal: Aceite de palma, aceite de girasol y manzanas. 
 
-Donde a simple vista, se puede concluir que la carne *(beef - beef herd)*, posee la mayor cantidad de fábricas y consumo de tierra y agua dulce. 
+- Emisiones GEI – origen animal: la carne de ave de corral, la carne de res y los hatos lecheros presentan las mayores emisiones.
+
+- Emisiones GEI – origen vegetal: el aceite de palma, el aceite de girasol y las manzanas son los productos que generan mayores emisiones.
+
+- Uso de tierra y agua – origen animal: la carne de res es el alimento que más recursos de tierra y agua dulce requiere.
+
+- Uso de tierra y agua – origen vegetal: el aceite de girasol demanda los mayores recursos de tierra y agua dulce.
+
+- Fábricas/Granjas: la mayor concentración de instalaciones productivas se asocia a la producción de carne de res, cordero y derivados lácteos.
 
 
 ---
