@@ -1,4 +1,5 @@
 ## Análisis de datos: Impacto ambiental de la producción de alimentos 🌴🐄
+---
 **Por:** Andrea Rodriguez Ospina - Ingeniería de sistemas
 ---
 **Contexto**
