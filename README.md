@@ -1,7 +1,7 @@
 ## Análisis de datos: Impacto ambiental de la producción de alimentos 🌴🐄
 ---
-**Por:** Andrea Rodriguez Ospina - Ingeniería de sistemas
----
+Por: Andrea Rodriguez Ospina - Ingeniería de sistemas
+
 **Contexto**
 
 Las palabras “*preservación del medioambiente, cambio climático y emisiones de efecto invernadero*” se hacen cada día más populares. Y no es de extrañar, ya que según científicos, nuestro hogar (la tierra), se está dirigiendo a un punto de no retorno debido al sobre consumo y la sobre explotación de los recursos naturales por parte de algunas industrias, entre las cuales, me voy a enfocar en una en particular: La de los alimentos.
