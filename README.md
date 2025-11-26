@@ -2,6 +2,7 @@
 ---
 Por: Andrea Rodriguez Ospina - Ingeniería de sistemas
 
+
 **Contexto**
 
 Las expresiones *preservación del medioambiente, cambio climático y emisiones de gases de efecto invernadero* se han vuelto cada vez más frecuentes en el discurso científico y social. Esto no es casualidad: diversas investigaciones advierten que nuestro planeta se aproxima a un punto crítico debido al sobreconsumo y la explotación intensiva de los recursos naturales por parte de múltiples industrias. Entre ellas, la industria alimentaria ocupa un lugar destacado por su significativo impacto ambiental.
