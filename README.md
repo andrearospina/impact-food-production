@@ -4,9 +4,9 @@ Por: Andrea Rodriguez Ospina - Ingeniería de sistemas
 
 **Contexto**
 
-Las palabras “*preservación del medioambiente, cambio climático y emisiones de efecto invernadero*” se hacen cada día más populares. Y no es de extrañar, ya que según científicos, nuestro hogar (la tierra), se está dirigiendo a un punto de no retorno debido al sobre consumo y la sobre explotación de los recursos naturales por parte de algunas industrias, entre las cuales, me voy a enfocar en una en particular: La de los alimentos.
+Las expresiones *preservación del medioambiente, cambio climático y emisiones de gases de efecto invernadero* se han vuelto cada vez más frecuentes en el discurso científico y social. Esto no es casualidad: diversas investigaciones advierten que nuestro planeta se aproxima a un punto crítico debido al sobreconsumo y la explotación intensiva de los recursos naturales por parte de múltiples industrias. Entre ellas, la industria alimentaria ocupa un lugar destacado por su significativo impacto ambiental.
 
-Usando un dataset de ourworldindata.org voy a proceder a hacer un análisis con *Power BI* de algunos (de los tantos) impactos ambientales que genera la industria de los alimentos. Y para lograrlo, voy a resolver los siguientes interrogantes:
+A partir de un conjunto de datos obtenido de Our World in Data, se desarrolla un análisis en Power BI orientado a examinar algunos de los principales efectos ambientales asociados a la producción de alimentos. Con este propósito, se plantean los siguientes interrogantes:
 
 1.	¿Cuáles son los alimentos de origen animal que producen la mayor cantidad de gases de efecto invernadero?
 
